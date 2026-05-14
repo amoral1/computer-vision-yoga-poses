@@ -1,4 +1,0 @@
-deploy/
-├── yoga-app.service       (the systemd unit I gave you earlier)
-├── nginx.conf             (the nginx server block)
-└── update.sh              (the git pull + restart script)
